@@ -64,7 +64,6 @@ namespace TargPrzygod
             ItemList.Add(new Armor("Light armor", 200, 10));
             ItemList.Add(new Armor("Medium armor", 400, 20));
             ItemList.Add(new Armor("Heavy armor", 600, 30));
-            ItemList.Add(new Armor("Heavy armor +10", 1600, 130));
         }
 
         public void Buying()
