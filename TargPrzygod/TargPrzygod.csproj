@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Adventurer.cs" />
     <Compile Include="Armor.cs" />
+    <Compile Include="Drow.cs" />
     <Compile Include="Item.cs" />
     <Compile Include="Market.cs" />
     <Compile Include="Program.cs" />
