@@ -21,7 +21,7 @@ namespace TargPrzygod
         public void Welcome()
         {
             Console.WriteLine("Welcome to Ribald Barteman's shop!");
-            Console.WriteLine("How may I serve you dear sir/madam? ");
+            Console.WriteLine("How may I serve you? ");
         }
         public void Choice()
         {
