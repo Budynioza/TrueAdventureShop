@@ -7,5 +7,6 @@ namespace TargPrzygod
 {
     class Drow
     {
+        // nope
     }
 }
