@@ -17,7 +17,7 @@ namespace TargPrzygod
             }
             else
             {
-                Console.WriteLine("Stop kiding! You don't have enough money");
+                Console.WriteLine("Stop kiding! You don't have enough money!");
                 Console.WriteLine("What would you like to do next? ");
                 return false;
             }
