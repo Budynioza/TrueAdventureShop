@@ -61,6 +61,7 @@ namespace TargPrzygod
             ItemList.Add(new Weapon("Big sword", 300, 8));
             ItemList.Add(new Weapon("Small sword +1", 600, 14));
             ItemList.Add(new Weapon("Big sword +1", 800, 19));
+            ItemList.Add(new Weapon("Sword of awesomeness +500", 800, 19));
             ItemList.Add(new Armor("Light armor", 200, 10));
             ItemList.Add(new Armor("Medium armor", 400, 20));
             ItemList.Add(new Armor("Heavy armor", 600, 30));
