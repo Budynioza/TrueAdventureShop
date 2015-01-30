@@ -1,0 +1,4 @@
+C:\Users\mhareza\Documents\Visual Studio 2010\Projects\TargPrzygod\TargPrzygod\bin\Release\TargPrzygod.exe
+C:\Users\mhareza\Documents\Visual Studio 2010\Projects\TargPrzygod\TargPrzygod\bin\Release\TargPrzygod.pdb
+C:\Users\mhareza\Documents\Visual Studio 2010\Projects\TargPrzygod\TargPrzygod\obj\x86\Release\TargPrzygod.exe
+C:\Users\mhareza\Documents\Visual Studio 2010\Projects\TargPrzygod\TargPrzygod\obj\x86\Release\TargPrzygod.pdb

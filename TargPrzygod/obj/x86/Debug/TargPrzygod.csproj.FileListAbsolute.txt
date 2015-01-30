@@ -1,0 +1,5 @@
+C:\Users\mhareza\Documents\Visual Studio 2010\Projects\TargPrzygod\TargPrzygod\bin\Debug\TargPrzygod.exe
+C:\Users\mhareza\Documents\Visual Studio 2010\Projects\TargPrzygod\TargPrzygod\bin\Debug\TargPrzygod.pdb
+C:\Users\mhareza\Documents\Visual Studio 2010\Projects\TargPrzygod\TargPrzygod\obj\x86\Debug\TargPrzygod.exe
+C:\Users\mhareza\Documents\Visual Studio 2010\Projects\TargPrzygod\TargPrzygod\obj\x86\Debug\TargPrzygod.pdb
+C:\Users\mhareza\Documents\Visual Studio 2010\Projects\TargPrzygod\TargPrzygod\obj\x86\Debug\TargPrzygod.csprojResolveAssemblyReference.cache
