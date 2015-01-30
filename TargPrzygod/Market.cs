@@ -31,7 +31,7 @@ namespace TargPrzygod
             switch (answer)
             {
                 case "1":
-                    Console.WriteLine("Here is a list of my wares:\n");
+                    Console.WriteLine("Here is a list of my fabulous wares:\n");
                     foreach (Item LoopedItem in ItemList)
                     {
                         Console.WriteLine(LoopedItem.Name + LoopedItem.Price);
